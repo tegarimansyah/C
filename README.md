@@ -8,6 +8,6 @@ Everyone love TicTacToe, we called it Kotak Sembilan in Indonesia.
 * Change to executable `chmod +x tictactoe`
 * Run `./tictactoe`
 
-![gameplay1][gameplay1.png]
+![gameplay1](gameplay1.png)
 
-![gameplay2][gameplay2.png]
+![gameplay2](gameplay2.png)
